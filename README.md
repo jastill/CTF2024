@@ -19,3 +19,4 @@ Capture the Flag 2024
 
 [Vault Laptop](https://vaultlaptop-chall.xsec.c.eu-de-1.cloud.sap/)
 
+```journalist```
