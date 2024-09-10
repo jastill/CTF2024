@@ -22,3 +22,5 @@ Capture the Flag 2024
 ```journalist``` on his business card restored from the trash
 
 ```123456``` Click on the password field
+
+```BBCCCCDADBDCADBDCCCCACBBBBDC``` Incorrect.....
