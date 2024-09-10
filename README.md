@@ -19,4 +19,6 @@ Capture the Flag 2024
 
 [Vault Laptop](https://vaultlaptop-chall.xsec.c.eu-de-1.cloud.sap/)
 
-```journalist```
+```journalist``` on his business card restored from the trash
+
+```123456``` Click on the password field
