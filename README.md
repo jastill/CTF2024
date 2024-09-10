@@ -16,3 +16,6 @@ Capture the Flag 2024
 ```howtec.cooper``` on notice board
 
 ```caroline.james``` In trash
+
+[Vault Laptop](https://vaultlaptop-chall.xsec.c.eu-de-1.cloud.sap/)
+
