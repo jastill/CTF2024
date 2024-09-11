@@ -29,6 +29,9 @@ Capture the Flag 2024
 
 ```Los Angeles``` 	34º 5' 20.62" N, 118º 18' 2.81" W
 
+![image](https://github.com/user-attachments/assets/29e7d4c0-de61-4fbf-a64b-4817024d59aa)
+
+
 ## DevOps
 
 ```
