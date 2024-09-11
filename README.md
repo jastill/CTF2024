@@ -24,3 +24,5 @@ Capture the Flag 2024
 ```123456``` Click on the password field
 
 ```BBCCCCDADBDCADBDCCCCACBBBADC``` FFS.....
+
+```Flag: {SecureAccessGranted}``` Deactivate badge again
