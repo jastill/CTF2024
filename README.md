@@ -27,6 +27,8 @@ Capture the Flag 2024
 
 ```{SecureAccessGranted}``` Deactivate badge again
 
+```Los Angeles``` 	34º 5' 20.62" N, 118º 18' 2.81" W
+
 ## DevOps
 
 ```
