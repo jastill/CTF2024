@@ -26,3 +26,30 @@ Capture the Flag 2024
 ```BBCCCCDADBDCADBDCCCCACBBBADC``` FFS.....
 
 ```Flag: {SecureAccessGranted}``` Deactivate badge again
+
+## DevOps
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Power Station Control Panel</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        
+<div class="panel">
+    <h2>Login to Power Station Control Panel</h2>
+    <!-- Reminder: Ash: Remove default account user / password123 -->
+    <!-- Arnold: Oh Ash is being paranoid again. Nobody knows it's there. Leave it be. -->
+    <form method="post">
+        <input type="text" name="username" placeholder="Username"><br>
+        <input type="password" name="password" placeholder="Password"><br>
+        <button type="submit">Login</button>
+    </form>
+</div>
+
+    </div>
+</body>
+</html>
