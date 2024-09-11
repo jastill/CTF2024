@@ -29,6 +29,7 @@ Capture the Flag 2024
 
 ## DevOps
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,3 +54,4 @@ Capture the Flag 2024
     </div>
 </body>
 </html>
+```
