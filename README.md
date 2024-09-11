@@ -25,7 +25,7 @@ Capture the Flag 2024
 
 ```BBCCCCDADBDCADBDCCCCACBBBADC``` FFS.....
 
-```Flag: {SecureAccessGranted}``` Deactivate badge again
+```{SecureAccessGranted}``` Deactivate badge again
 
 ## DevOps
 
